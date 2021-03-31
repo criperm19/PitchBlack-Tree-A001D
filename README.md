@@ -6,3 +6,5 @@ git clone https://github.com/Cereal-Mkos/PitchBlack-Tree-A001D.git -b main devic
 git clone https://github.com/TeamWin/android_device_qcom_common.git -b android-9.0 device/qcom/common
 
 git clone https://github.com/TeamWin/android_device_qcom_twrp-common.git -b android-9.0 device/qcom/twrp-common
+
+# DELETE a pasta no diretório /PB/vendor/qcom/opensource/commonsys/cryptfs_hw
